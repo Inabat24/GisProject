@@ -9,7 +9,7 @@ Hello, GisProject!
 </head>
 <body>
     <h1>Добро пожаловать на мою страницу!</h1>
-    <p>Это мой первый сайт на HTML.</p>
+    <p>Это мой первый код на HTML.</p>
     
     <button onclick="alert('Привет!')">Нажми меня</button>
 </body>
